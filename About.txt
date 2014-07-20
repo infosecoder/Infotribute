@@ -1,0 +1,3 @@
+My first GitHub Repo via Windows 
+Had trouble connecting the application, change the proxy via command line and now it is now solved.
+Wonderful responsible things are coming.
